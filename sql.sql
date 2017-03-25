@@ -1,0 +1,1 @@
+CREATE TABLE `roadways`.`customer_login` ( `id` INT NOT NULL AUTO_INCREMENT , `userid` VARCHAR(30) NOT NULL , `password` VARCHAR(30) NOT NULL , PRIMARY KEY (`id`)) ENGINE = InnoDB;
